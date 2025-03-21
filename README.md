@@ -1,2 +1,4 @@
-# TM10007-machine-learning-group-5
-TM10007 machine learning assignment group 5 2025
+# TM10007_PROJECT
+
+Read the project guidelines (TM10007_projectguidelines) and work out your solution in the Jupyter Notebook (assignment.ipynb).
+NB: for the ECG dataset, please unzip the file 'ecg.zip' before loading it.
